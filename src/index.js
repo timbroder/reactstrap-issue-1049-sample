@@ -22,6 +22,8 @@ import { setGlobalCssModule } from 'reactstrap/lib/utils';
 
 setGlobalCssModule(bootstrap);
 
+// console.log(bootstrap);
+
 const App = (
   <Navbar color="light" light expand="md">
     <Button color="danger">Danger!</Button>
