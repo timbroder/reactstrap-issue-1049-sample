@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page layout without navigation renders the component 1`] = `
+<div>
+  <div
+    className="content"
+  >
+    <HeaderNoNav />
+    <MockComponent />
+  </div>
+  <Footer />
+</div>
+`;
